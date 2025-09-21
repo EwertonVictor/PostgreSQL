@@ -27,7 +27,7 @@ The Northwind sample database includes 14 tables and the table relationships are
 <img width="974" height="747" alt="image" src="https://github.com/user-attachments/assets/4c418938-2c68-498f-8ae0-0403e1a6e629" />
 
 ## Objectives
-- [ ] __Create basic queries__
+- [x] __Create basic queries__
   + SELEC FROM - Selecting data from tables
   + SELECT AS - Renaming columns
   + SELECT LIMIT - Limiting the number of rows in a query
