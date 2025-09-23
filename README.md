@@ -32,7 +32,7 @@ The Northwind sample database includes 14 tables and the table relationships are
   + SELECT AS - Renaming columns
   + SELECT LIMIT - Limiting the number of rows in a query
   + SELECT DISTINCT - Selecting distinct values from a column
-- [ ] __Filters__
+- [x] __Filters__
   + WHERE - Filters with text
   + WHERE - Filters with numbers and dates
   + WHERE - AND and OR operators
